@@ -1,0 +1,15 @@
+.elemento-no-centro{
+  text-align: center;
+}
+
+.plano-de-fundo{
+  background-color: #dfe6e9
+}
+
+.plano-de-fundo-img{
+  background-image: url("bg6.jpg");
+}
+
+.texto-branco{
+  color: white;
+}
