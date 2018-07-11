@@ -7,9 +7,18 @@
 }
 
 .plano-de-fundo-img{
-  background-image: url("../img/bg6.jpg");
+  background-image: url("../img/bg5.jpg");
 }
 
 .texto-branco{
   color: white;
+}
+
+header .intro-text{
+    padding-top: 300px;
+    padding-bottom: 200px;
+}
+
+.img-circle{
+  border-radius: 50%;
 }
